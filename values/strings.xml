@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="edit_message">What product do you want?</string>
+    <string name="button_send">Search</string>
+    <string name="search_hint">Product</string>
+    <string name="button_add">AddToCart</string>
+    <string name="brand">product.brand</string>
+    <string name="color">product.color</string>
+    <string name="type">product.type</string>
+    <string name="price">product.price</string>
+</resources>
